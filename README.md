@@ -6,7 +6,9 @@ This is a bookmarklet designed to make it easy to open a Twitch stream in HLS (s
 
 ## How to Install
 
-Drag this link to your favorites bar: <a href="javascript:var%20hls=document.URL.replace(/^https/,%20%22http%22);if%20(hls.substr(-1,1)!=%22/%22)hls%20+=%20%22/%22;hls+=%22hls%22;document.getElementsByTagName(%22object%22)[0].pauseVideo();window.open(hls,%22twitchHLS%22,%22status=0,toolbar=0,menubar=0,height=405,width=720,top=%22+(screen.height/2-250)+%22,left=%22+(screen.width/2-360))">**Twitch HLS**</a>.
+You need to [go here](http://robinadr.com/2014/01/twitch-hls-bookmarklet) to get the bookmarklet.
+
+Github doesn't allow `javascript:` links.
 
 ## How to Use
 
