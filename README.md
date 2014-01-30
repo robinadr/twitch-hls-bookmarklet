@@ -29,6 +29,10 @@ This copies the bookmarklet (`javascript:...`) to your clipboard.
 
 `make_bookmarklet.pl` is included and is by [John Gruber](http://daringfireball.net/2007/03/javascript_bookmarklet_builder) of Daring Fireball.
 
+## License
+
+Licensed under the [MIT License](http://choosealicense.com/licenses/mit/).
+
 ## Changelog
 
 **1/29/14**
